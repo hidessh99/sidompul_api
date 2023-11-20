@@ -1,5 +1,5 @@
-# Hasil sniff API APK Sidompul XL
-Hasil sniff API dari APK Sidompul XL. Cara menggunakan:
+# sniff API APK Sidompul XL
+Hasil API dari APK Sidompul XL. Cara menggunakan:
 1. Khusus OpenWrt, jalankan ini dulu: `opkg update && opkg install git-http`
 2. Clone repository ini: `git clone https://github.com/hillz2/sidompul_api.git`
 3. Change direcotry: `cd sidompul_api`
@@ -77,4 +77,4 @@ REMAINING: 2.07 GB
 
 Perbedaan script ini dengan yang versi sidompul android yaitu discript ini kita bisa mengetahui jumlah total kuota unlimited di paket yang sudah terdaftar, contohnya kuota unlimited paket akrab XL
 
-Contact: [Facebook](https://fb.me/galihpa)
+postman https://documenter.getpostman.com/view/26294023/2s9Ye8gv72
