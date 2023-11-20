@@ -1,4 +1,4 @@
-# sniff API APK Sidompul XL
+#  API APK Sidompul XL
 Hasil API dari APK Sidompul XL. Cara menggunakan:
 1. Khusus OpenWrt, jalankan ini dulu: `opkg update && opkg install git-http`
 2. Clone repository ini: `git clone https://github.com/hillz2/sidompul_api.git`
